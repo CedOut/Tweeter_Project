@@ -1,0 +1,9 @@
+com\cristalline\controller\MemberController.class
+com\cristalline\data\MemberListProducer.class
+com\cristalline\model\Member.class
+com\cristalline\model\Member_.class
+com\cristalline\service\MemberRegistration.class
+com\cristalline\data\MemberRepository.class
+com\cristalline\util\Resources.class
+com\cristalline\rest\MemberResourceRESTService.class
+com\cristalline\rest\JaxRsActivator.class
